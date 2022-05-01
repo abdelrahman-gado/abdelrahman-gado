@@ -25,5 +25,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrahman-gado)](https://github.com/anuraghazra/github-readme-stats)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abdelrahman-gado)](https://github.com/abdelrahman-gado/github-readme-stats)
 
